@@ -1,4 +1,4 @@
-# AngularNestFullstack
+# Angular Nest Fullstack
 
 You can see my video tutorial here: [https://www.youtube.com/watch?v=DPbZagVj_qA](https://www.youtube.com/watch?v=DPbZagVj_qA)
 
