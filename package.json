@@ -26,7 +26,7 @@
     "@angular/platform-server": "~8.2.13",
     "@angular/router": "~8.2.13",
     "@nestjs/common": "^6.0.0",
-    "@nestjs/core": "^6.0.0",
+    "@nestjs/core": "^9.0.5",
     "@nestjs/ng-universal": "^2.0.1",
     "@nestjs/platform-express": "^6.0.0",
     "@nguniversal/express-engine": "^8.0.0",
